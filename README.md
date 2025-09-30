@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ilyass
+# Hi! I'm Ilyass
 
 ### Full Stack Developer from Morocco 🇲🇦
 
@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Full stack developer passionate about building web applications. I work with modern technologies across the entire stack, from frontend to backend and databases.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,12 +47,4 @@ Full stack developer passionate about building web applications. I work with mod
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AboudouIlyass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboudouIlyass&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting!** 🚀
-
 </div>
